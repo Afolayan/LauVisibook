@@ -151,7 +151,7 @@ public class ServiceHandler {
         // Building post parameters
         // key and value pair
         List<NameValuePair> nameValuePair = new ArrayList<NameValuePair>(1);
-        nameValuePair.add(new BasicNameValuePair("email", "afolayanseyi@gmail.com"));
+        nameValuePair.add(new BasicNameValuePair("email", ""));
 
         // Url Encoding the POST parameters
         try {
